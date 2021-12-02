@@ -22,7 +22,7 @@
 
 - Проектировал и разрабатывал архитектуру frontend системы товарного учета на Vue.js с нуля
 - Проектировал и разрабатывал API и часть архитектуры backend (Java)
-- Разработал графический редактор для построения диаграмм на основе <a href="https://jgraph.github.io/mxgraph/">mxgraph</a>, что ускорило конфигурацию процессов в системе на ~200%
+- Разработал графический редактор для построения диаграмм на основе <a href="https://jgraph.github.io/mxgraph/">mxgraph</a>, что позволило ускорить конфигурацию процессов в системе на ~200%
 - Разработал Kotlin DSL для конфигурации системы с помощью скриптов и добавил поддержку Web IDE на frontend (KotlinScript, <a href="https://en.wikipedia.org/wiki/Language_Server_Protocol">LSP</a>))
 
 ### <span>Senior Fullstack Developer, <a href="https://codeinside.ru/">Codeinside</a></span> <span>Июль 2015 -- Февраль 2018</span>
