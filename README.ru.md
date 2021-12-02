@@ -21,7 +21,7 @@
 ### <span>Senior Fullstack Developer, <a href="https://www.sportmaster.ru/">Спортмастер Россия, SM Lab</a></span> <span>Февраль 2018 -- по настоящее время</span>
 
 - Проектировал и разрабатывал архитектуру frontend системы товарного учета на Vue.js с нуля
-- Проектировал и разрабатывал API и часть архитектуры backend (Java)
+- Проектировал и разрабатывал API и часть архитектуры backend (Java/Kotlin)
 - Разработал графический редактор для построения диаграмм на основе <a href="https://jgraph.github.io/mxgraph/">mxgraph</a>, что позволило ускорить конфигурацию процессов в системе на ~200%
 - Разработал Kotlin DSL для конфигурации системы с помощью скриптов и добавил поддержку Web IDE на frontend (KotlinScript, <a href="https://en.wikipedia.org/wiki/Language_Server_Protocol">LSP</a>))
 
