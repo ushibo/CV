@@ -5,7 +5,8 @@
 - Moscow, Russia (ready to relocate)
 
 ## About me
-- 10+ years of experience in developing various systems from scratch and from diving into an existing codebase
+- 10+ years of Web development experience
+- I have extensive experience in developing system's architecture from scratch and diving into the existing code base
 - Most of the experience is related to fullstack development, also managed a backend team of 3 people
 - Currently, I’m a full-stack developer (JavaScript, Java), ~70% of the time I'm doing JavaScript
 
