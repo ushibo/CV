@@ -18,7 +18,7 @@
 - <b>Tools:</b> Git, Docker, Maven, Webpack, Gitlab, Jira, GitHub
 - <b>Databases::</b> Postgresql, Oracle, Solr, Redis
 
-### <span>Senior Fullstack Developer, <a href="https://www.sportmaster.ru/">Sportmaster, SM Lab</a></span> <span>February 2018 -- currently</span>
+### <span>Senior Fullstack Developer, <a href="https://www.sportmaster.ru/">Sportmaster, SM Lab</a></span> <span>February 2018 -- Present</span>
 
 - Designed and developed the frontend architecture for the commodity accounting system on Vue.js from scratch (Vue, TypeScript)
 - Designed and developed the API and part of the backend architecture (Java, Kotlin)
