@@ -24,6 +24,7 @@
 - Designed and developed the API and part of the backend architecture (Java, Kotlin)
 - Developed a graphic editor for building diagrams based on <a href="https://jgraph.github.io/mxgraph/">mxgraph</a>, which accelerated the configuration of processes in the system by ~ 200%
 - Developed Kotlin DSL for scripted system configuration and added Web IDE support on frontend (KotlinScript, <a href="https://en.wikipedia.org/wiki/Language_Server_Protocol">LSP</a>))
+- Setup the infrastructure for e2e testing, which reduced the regression testing time by 2 times (Docker, Cypress, Vue)
 
 ### <span>Senior Fullstack Developer, <a href="https://codeinside.ru/">Codeinside</a></span> <span>July 2015 -- February 2018</span>
 
