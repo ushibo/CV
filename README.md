@@ -14,7 +14,7 @@
 
 - <b>Languages:</b> JavaScript / TypeScript, Java / Kotlin, SQL
 - <b>Technologies:</b> Spring, Express, Vue, React, CSS, SASS
-- <b>Testing:</b> JUnit, Jest
+- <b>Testing:</b> JUnit, Jest, Cypress
 - <b>Tools:</b> Git, Docker, Maven, Webpack, Gitlab, Jira, GitHub
 - <b>Databases::</b> Postgresql, Oracle, Solr, Redis
 
