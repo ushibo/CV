@@ -22,7 +22,7 @@
 
 - Designed and developed a platform for corporate training of employees, TT.Education
 - Managed a frontend development team of 4+ people
-- Engaged in design, decomposition and setting goals for product requirements
+- Engaged in design, decomposition and task setting in accordance with product requirements
 - Accelerated the CI pipeline by 30%, which made it possible to speed up the delivery of features
 
 ### <span>Senior Fullstack Developer, <a href="https://www.sportmaster.ru/">Sportmaster, SM Lab</a></span> <span>February 2018 -- January 2022</span>
