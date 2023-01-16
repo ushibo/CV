@@ -5,10 +5,10 @@
 - Moscow, Russia (ready to relocate)
 
 ## About me
-- 10+ years of Web development experience
+- 12+ years of Web development experience
 - I have extensive experience in developing system's architecture from scratch and diving into the existing code base
-- Most of the experience is related to fullstack development, also managed a backend team of 3 people
-- Currently, I’m a full-stack developer (JavaScript, Java), ~70% of the time I'm doing JavaScript
+- Most of the experience is related to fullstack development
+- Currently, I am a Frontend Tech Lead, managing a team of development and implementation of various technical solutions
 
 ## Skills
 
@@ -18,7 +18,14 @@
 - <b>Tools:</b> Git, Docker, Maven, Webpack, Gitlab, Jira, GitHub
 - <b>Databases::</b> Postgresql, Oracle, Solr, Redis
 
-### <span>Senior Fullstack Developer, <a href="https://www.sportmaster.ru/">Sportmaster, SM Lab</a></span> <span>February 2018 -- Present</span>
+### <span>Frontend Tech Lead, <a href="https://talenttech.ru/">TalentTech</a></span> <span>January 2022 -- Present</span>
+
+- Designed and developed a platform for corporate training of employees, TT.Education
+- Managed a frontend development team of 4+ people
+- Engaged in design, decomposition and setting goals for product requirements
+- Accelerated the CI pipeline by 30%, which made it possible to speed up the delivery of features
+
+### <span>Senior Fullstack Developer, <a href="https://www.sportmaster.ru/">Sportmaster, SM Lab</a></span> <span>February 2018 -- January 2022</span>
 
 - Designed and developed the frontend architecture for the commodity accounting system on Vue.js from scratch (Vue, TypeScript)
 - Designed and developed the API and part of the backend architecture (Java, Kotlin)
