@@ -20,9 +20,10 @@
 
 ### <span>Frontend Tech Lead, <a href="https://talenttech.ru/">TalentTech</a></span> <span>January 2022 -- Present</span>
 
-- Designed and developed a platform for corporate training of employees, TT.Education
+- Designed and developed a platform for corporate training of employees, <a href="https://talenttech.ru/learning/">TT.Education</a>
 - Managed a frontend development team of 4+ people
 - Engaged in design, decomposition and task setting in accordance with product requirements
+- Managed team selection
 - Accelerated the CI pipeline by 30%, which made it possible to speed up the delivery of features
 
 ### <span>Senior Fullstack Developer, <a href="https://www.sportmaster.ru/">Sportmaster, SM Lab</a></span> <span>February 2018 -- January 2022</span>
