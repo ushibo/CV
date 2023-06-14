@@ -18,9 +18,9 @@
 - <b>Инструменты:</b> Git, Docker, Webpack, Gitlab, Jira, GitHub
 - <b>Базы данных:</b> Postgresql, Oracle, Solr, Redis
 
-### <span>Frontend Tech Lead, <a href="https://talenttech.ru/">TalentTech</a></span> <span>Январь 2022 -- по настоящее время</span>
+### <span>Frontend Tech Lead, <a href="https://potok.io/">Potok (ex. TalentTech)</a></span> <span>Январь 2022 -- по настоящее время</span>
 
-- Проектировал и разрабатывал платформу для корпоративного обучения сотрудников, <a href="https://talenttech.ru/learning/">TT.Обучение</a>
+- Проектировал и разрабатывал платформу для корпоративного обучения сотрудников, <a href="https://potok.io/learning/">Поток.Обучение</a>
 - Управлял командой frontend разработки 4+ человек
 - Занимался проектированием, декомпозицией и постановкой задач по продуктовым требованиям
 - Занимался подбором команды
