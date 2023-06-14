@@ -13,9 +13,9 @@
 ## Навыки
 
 - <b>Языки:</b> JavaScript / TypeScript, Java / Kotlin, SQL
-- <b>Технологии:</b> Spring, Express, Vue, React, CSS, SASS
+- <b>Технологии:</b> Vue, React, Express, NextJS, CSS, SASS
 - <b>Тестирование:</b> JUnit, Jest, Cypress
-- <b>Инструменты:</b> Git, Docker, Maven, Webpack, Gitlab, Jira, GitHub
+- <b>Инструменты:</b> Git, Docker, Webpack, Gitlab, Jira, GitHub
 - <b>Базы данных:</b> Postgresql, Oracle, Solr, Redis
 
 ### <span>Frontend Tech Lead, <a href="https://talenttech.ru/">TalentTech</a></span> <span>Январь 2022 -- по настоящее время</span>
