@@ -5,26 +5,37 @@
 - Москва, Россия (готов к переезду)
 
 ## Обо мне
-- 12+ лет опыта Web разработки
+- 12+ лет опыта Web разработки. ??
 - Имею большой опыт разработки архитектуры систем с нуля и с погружением в существующую кодовую базу
-- Основная часть опыта связана с fullstack разработкой
-- В настоящее время являюсь Frontend Tech Lead, управляю командой разработки и внедряю различные технические решения
+- В настоящее время являюсь Tech Lead, управляю командой разработки и внедряю различные технические решения
 
 ## Навыки
 
 - <b>Языки:</b> JavaScript / TypeScript, Java / Kotlin, SQL
-- <b>Технологии:</b> Vue, React, Express, NextJS, CSS, SASS
+- <b>Технологии:</b> Vue, React, NodeJS, NestJS, Express, NextJS, GRPC, GraphQL
 - <b>Тестирование:</b> JUnit, Jest, Cypress
-- <b>Инструменты:</b> Git, Docker, Webpack, Gitlab, Jira, GitHub
-- <b>Базы данных:</b> Postgresql, Oracle, Solr, Redis
+- <b>Инструменты:</b> Postgresql, Solr, Redis, Kafka, Git, Docker, Webpack
 
-### <span>Frontend Tech Lead, <a href="https://potok.io/">Potok (ex. TalentTech)</a></span> <span>Январь 2022 -- по настоящее время</span>
+### <span>Tech Lead <a href="https://greencode.pro/">Greencode</a></span> <span>Январь 2023 -- по настоящее время</span>
+- Разрабатывал игровую платформу (Бонусная система, Платежи).
+- Управлял командой разработки 7+ человек
+- Занимался проектированием, декомпозицией и постановкой задач по продуктовым требованиям
+- Занимался подбором команды, менторством, проведением one-to-one
+- Переводил систему с монолитной архитектуры на микросервисную
+- Перенес инфраструктурные модули (GRPC и GraphQL контракты, мониторинг и тд.) в npm пакеты, что позволило изолировать код от основного репозитория и убрать связанность модулей
+- Настроил релизный цикл npm пакетов с прозрачным версионированием с использованием <a href="https://github.com/semantic-release/semantic-release">semantic-release</a>
+
+Технологии: NodeJS, NestJS, NextJS, React, GraphQL, GRPC, Postgresql, Redis, Kafka
+
+### <span>Frontend Tech Lead, <a href="https://potok.io/">Potok (ex. TalentTech)</a></span> <span>Январь 2022 -- Январь 2023</span>
 
 - Проектировал и разрабатывал платформу для корпоративного обучения сотрудников, <a href="https://potok.io/learning/">Поток.Обучение</a>
 - Управлял командой frontend разработки 4+ человек
 - Занимался проектированием, декомпозицией и постановкой задач по продуктовым требованиям
 - Занимался подбором команды
 - Ускорил CI pipeline на 30%, что позволило ускорить поставку фич
+
+Технологии: Vue, JS, TypeScript, NodeJS, SCSS, Jest, Webpack
 
 ### <span>Senior Fullstack Developer, <a href="https://www.sportmaster.ru/">Спортмастер Россия, SM Lab</a></span> <span>Февраль 2018 -- Январь 2022</span>
 
